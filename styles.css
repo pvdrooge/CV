@@ -1,0 +1,74 @@
+/* --- HTML ELEMENTS --- */
+body {
+  font-family: 'Alegreya', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  padding: 50px;
+}
+
+hr {
+  margin: 50px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  padding: 20px;
+}
+
+thead {
+  font-weight: bold;
+}
+
+/* --- CONTAINERS --- */
+.container {
+  padding: 30px 200px 30px;
+}
+
+.uneven {
+  background-color: #e4e3e3;
+}
+
+.even {
+  background-color: #84a9ac;
+}
+
+.last {
+  background-color: #3b6978;
+}
+
+/* --- CLASSES --- */
+.bold {
+  font-weight: bold;
+}
+
+.edu {
+  border: dotted #84a9ac 6px;
+}
+
+.footer-link {
+  font-weight: bold;
+  color: #e4e3e3;
+  padding: 10px 20px
+}
+
+.job {
+  border: dotted #e4e3e3 6px;
+}
+
+.position {
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.spacing {
+  width: 4%;
+  border-bottom: none;
+  margin: 40px auto;
+}
